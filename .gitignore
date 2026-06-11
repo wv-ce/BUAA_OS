@@ -1,3 +1,4 @@
 *.pdf
 *.pptx
 .codex*
+.tmp-swift-cache
